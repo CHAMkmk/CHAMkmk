@@ -1,4 +1,4 @@
-### Hi there 👋
+⚡ 충암고 1학년
 
 <!--
 **CHAMkmk/CHAMkmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
